@@ -1,0 +1,36 @@
+{
+  "certificates": {
+    "FC001250M": {
+      "sku": "FC001250M",
+      "nameAr": "كريم سندريلا للوجه",
+      "nameEn": "Cinderella Face Cream",
+      "officialName": "Cinderella Face Cream",
+      "notificationNumber": "CN-2026-91479",
+      "categoryAr": "منتجات العناية بالبشرة",
+      "categoryEn": "Skin products",
+      "documentTypeAr": "اخطار تسويق منتج تجميلي",
+      "documentTypeEn": "Cosmetic Product Notification Certificate",
+      "issueDate": "2026-07-23",
+      "expiryDate": "2031-07-23",
+      "authorityAr": "الهيئة العامة للغذاء والدواء",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "image": "FC001250M.png"
+    },
+    "FC001100M": {
+      "sku": "FC001100M",
+      "nameAr": "كريم سندريلا للوجه",
+      "nameEn": "Cinderella Face Cream",
+      "officialName": "Cinderella Face Cream",
+      "notificationNumber": "CN-2026-91479",
+      "categoryAr": "منتجات العناية بالبشرة",
+      "categoryEn": "Skin products",
+      "documentTypeAr": "اخطار تسويق منتج تجميلي",
+      "documentTypeEn": "Cosmetic Product Notification Certificate",
+      "issueDate": "2026-07-23",
+      "expiryDate": "2031-07-23",
+      "authorityAr": "الهيئة العامة للغذاء والدواء",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "image": "FC001100M.png"
+    }
+  }
+}
